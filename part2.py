@@ -16,4 +16,4 @@ counter = 0
 
 while counter < timesprinted:
   counter = counter + 1
-  print("Hunter")
+  print("Hunter") 
