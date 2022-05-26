@@ -23,4 +23,4 @@ while num != 0:
   counter = counter + 1
   num = int(input("Enter a number or enter 0 to stop:"))
     
-print("Average:", total/counter)
+print("Average:", total/counter) 
